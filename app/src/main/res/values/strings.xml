@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">NG YONG KI</string>
+    <string name="new_application_into_diploma_in_computer_science">Check the qualitification for application into Diploma in Computer Science</string>
+    <string name="please_select_your_grade_for_each_subject">Please select your grade for each subject</string>
+    <string name="please_enter_your_qualitification">Please enter your qualitification</string>
+    <string name="check_your_qualitification_now">Check your qualitification Now!</string>
+    <string name="how_many_grade_c_and_above_do_you_have">How many grade C and above do you have?</string>
+    <string name="check_now">Check Now!</string>
+    <string name="my_entry_qualitifcation">My entry qualitifcation</string>
+    <string name="spm">SPM</string>
+    <string name="o_level">O level</string>
+    <string name="uec">UEC</string>
+</resources>
